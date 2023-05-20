@@ -1,0 +1,33 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.position-relative {
+    position: relative;
+}
+.img-fluid {
+    filter: brightness(50%);
+    width: 100%;
+}
+.overlay-text {
+    position: absolute;
+    padding-left: 50%;
+    padding-right: 5%;
+    padding-bottom: 30%;
+    color: white;
+    transform: translate(+0%, -50%);
+    text-align: right;
+}
+.honolulu {
+    padding-left: 0;
+    margin-left: 0;
+}
+pre {
+    padding-bottom: 23.6%;
+}
+footer {
+    background-color: #1d3a4a;
+    padding: 2%;
+    margin: 0rem;
+}
